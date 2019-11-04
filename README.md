@@ -1,4 +1,4 @@
-# Problem-Set-4: Dimension Reduction
+# Problem Set 4: Dimension Reduction
 Submit your assignment here (see workflow in the syllabus for help).
 
 Remember to submit a single rendered **PDF** (either from `.Rmd` or a Jupyter Notebook) to this repo by **Monday, November 11 at 5 pm**.
