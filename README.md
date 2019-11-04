@@ -3,7 +3,7 @@ Submit your assignment here (see workflow in the syllabus for help).
 
 Remember to submit a single rendered **PDF** (either from `.Rmd` or a Jupyter Notebook) to this repo by **Monday, November 11 at 5 pm**.
 
-For the following questions, use the world indicators data from class (`countries.csv`). Be sure to prepare the data appropriately (e.g., standardize).
+For the following questions, use the world indicators data from class (`countries.csv`). _Be sure to prepare the data appropriately (e.g., standardize)._
 
 ## Factor Analysis
 
